@@ -11,6 +11,8 @@
  </n>
 <center><img src='https://downloader.disk.yandex.ru/preview/ac0d24f1325ef5c41dfe4a8754c3e5694841d01040ff374dff19a6fb7b76d5c6/629f2db0/tQPrzf_yxUNargzX5cEkfIso3wZvEw2GuwkqLEPpPP6QGfX-3ll8nzjdtRKbfHJWgH5cpBEdWudgjqJEpl9ZNg%3D%3D?uid=0&filename=2022-06-07_09-50-52.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048'> </img> </center>
 
+Belirli aralıklarla, tanımlanan Amazon S3 hesabına yapının full yedeği alınabilir veya nsf protokolü ile sunucunuların haberleşebildiği bir dizine günlük sql yedeği alınabilir.
+
 <h4>İşletim Sistemi</h4>
 
 
