@@ -36,6 +36,8 @@ Belirli aralıklarla, tanımlanan Amazon S3 hesabına yapının full yedeği al�
 
 :mage: Oluşturulan sunuculara yönlendirilmek üzere 4 alan adına ihtiyacımız olacak.
 
+** subdomain kaydınızı örn'*.elektraweb.alandi.com' gibi * lı bir şekilde yönlendirme sağlarsanız tek bir yönlendirme yeterli olacaktır.
+
 - app.alanadi.com
 - pos.alanadi.com
 - api.alanadi.com
