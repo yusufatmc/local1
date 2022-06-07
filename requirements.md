@@ -16,7 +16,7 @@ Belirli aralıklarla, tanımlanan Amazon S3 hesabına yapının full yedeği al�
 <h4>İşletim Sistemi</h4>
 
 
-:mage: Kurulum Ubuntu işletim sisteminde yapılmaktadır, oluşturulan sunucular aşağıdaki sürümlere sahip bir ubuntu işletim sistemiyle kurulmalıdır.
+:mage: Kurulum Ubuntu işletim sisteminde yapılmaktadır, oluşturulan sunucular aşağıdaki sürümlere sahip bir işletim sistemiyle kurulmalıdır.
 
 - <a href='https://releases.ubuntu.com/20.04/' target="_blank" >Ubuntu 20.04</a>
 - <a href='https://releases.ubuntu.com/jammy/' target="_blank" >Ubuntu 22.04</a>
