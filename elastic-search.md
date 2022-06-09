@@ -19,9 +19,9 @@
   
 ## Kubernetes Ortamına Eklenecek YAML dosyası
 
-- Sıfır kurulum:
+- YAML dosyası:
 
-    - YAML dosyası [YAML](https://github.com/yusufatmc/local1/blob/main/elasticsearch.yml)
+    - [YAML](https://github.com/yusufatmc/local1/blob/main/elasticsearch.yml)
     
 - Elastic Kurulumunu Kaldırma
     ```bash
