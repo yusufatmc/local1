@@ -12,7 +12,7 @@
   `kubectl create -f https://download.elastic.co/downloads/eck/2.2.0/crds.yaml`
 - Elastic operatörünü kuruyoruz:
   `kubectl apply -f https://download.elastic.co/downloads/eck/2.2.0/operator.yaml`
-- Operator loglarını izleyebiliriz:
+- Operatör loglarını izleyebiliriz:
   `kubectl -n elastic-system logs -f statefulset.apps/elastic-operator`
 - Monitoring için yeni bir namespace oluşturuyoruz:
   `kubectl create namespace elastic-monitoring`
